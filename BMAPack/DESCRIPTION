@@ -1,0 +1,12 @@
+Package: BMAPack
+Title: Performs Bayesian Model Averaging (BMA) over entire model space
+Version: 0.1
+Author: Dino Hadzic
+Maintainer: Dino Hadzic <dino.hadzic@wustl.edu>
+Description: Performs Bayesian Model Averaging (BMA) over entire model space.
+    Also provides graphical and summary statistics options for certain outputs.
+Depends:
+    R (>= 3.0.3)
+License: GPL (>= 2)
+Suggests:
+    none
